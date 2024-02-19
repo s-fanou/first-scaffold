@@ -1,4 +1,5 @@
 # first-scaffold
+This is a VUE.js project, it is the first project created when you create a new project with the Vue CLI that is why it is called first scaffold
 
 ## Project setup
 ```
